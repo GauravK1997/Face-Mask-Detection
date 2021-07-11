@@ -2,8 +2,8 @@
 
 ## About the Project
 
-### The Project is built in order to detect whether a person is wearing a mask or not
-
+### The Project is built in order to detect whether a person is Wearing a Mask or Not
+---
 ## A glimpse of the Project
 
 ### 1) If a person is Wearing a Mask
