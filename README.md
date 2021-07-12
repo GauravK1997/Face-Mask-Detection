@@ -18,16 +18,16 @@
 
 * ## Technologies Used
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
+[<img target="_blank" src="https://forthebadge.com/images/badges/made-with-python.svg">](https://www.python.org/)
 
-![](https://github.com/GauravK1997/Face-Mask-Detection/blob/master/images/tensorflow%20keras.jpeg) 
+[<img target="_blank" src="https://github.com/GauravK1997/Face-Mask-Detection/blob/master/images/tensorflow%20keras.jpeg" width=500>](https://www.tensorflow.org/)
 
-![](https://github.com/GauravK1997/Face-Mask-Detection/blob/master/images/vgg16%20image.png)
+<img target="_blank" src="https://github.com/GauravK1997/Face-Mask-Detection/blob/master/images/vgg16%20image.png" width=900>
 
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/)
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=270>](https://flask.palletsprojects.com/en/1.1.x/)
 
 ---
 
 * ## Check out the Project Demo here: 
 
-## https://www.linkedin.com/feed/update/urn:li:ugcPost:6820360145684451328/
+## https://www.linkedin.com/feed/update/urn:li:ugcPost:6820360145684451328
