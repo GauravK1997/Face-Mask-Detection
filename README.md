@@ -1,4 +1,4 @@
-# Face-Mask-Detection
+# Face Mask Detection
 
 ## About the Project
 
